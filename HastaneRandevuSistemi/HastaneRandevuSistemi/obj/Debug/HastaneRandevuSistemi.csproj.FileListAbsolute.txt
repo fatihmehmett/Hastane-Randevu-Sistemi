@@ -1,0 +1,15 @@
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe.config
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.pdb
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.csprojAssemblyReference.cache
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Properties.Resources.resources
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.csproj.GenerateResource.cache
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.exe
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.pdb
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.AnaGirisSayfasi.resources
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Uyekayit.resources
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.DoktorGiris.resources
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.RandevuAl.resources
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.AdminPaneli.resources
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.DoktorBilgi.resources
+C:\Users\FATİH\Desktop\Web Çalışmaları\HastaneRandevuSistemiTez\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.GecmisRandevular.resources
